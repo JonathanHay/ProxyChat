@@ -1,0 +1,23 @@
+{
+  "name": "proxychat-backend",
+  "version": "1.0.0",
+  "description": "Backend for proxychat web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanHay/ProxyChat.git"
+  },
+  "author": "Jonathan Hay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonathanHay/ProxyChat/issues"
+  },
+  "homepage": "https://github.com/JonathanHay/ProxyChat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "websocket": "^1.0.34"
+  }
+}
